@@ -3,7 +3,7 @@ import React from "react";
 const Warning = () => {
   return (
     <>
-      <div className="flex justify-center items-center h-full h-dvh">
+      <div className="flex justify-center items-center h-full h">
         <div className="flex flex-col  p-5 rounded-lg shadow bg-white">
           <div className="flex flex-col items-center text-center">
             <div className="inline-block p-4 bg-yellow-50 rounded-full">

@@ -12,6 +12,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.19.0",
     "@monaco-editor/react": "^4.6.0",
+    "dotenv": "^16.4.5",
     "lucide": "^0.445.0",
     "lucide-react": "^0.445.0",
     "prop-types": "^15.8.1",
