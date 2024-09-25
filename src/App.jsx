@@ -10,7 +10,15 @@ const App = () => {
     const mobileCheck = /Mobi|Android/i.test(userAgent);
     setIsMobile(mobileCheck);
   }, []);
-  return <>{isMobile ? <Warning /> : <Home />}</>;
+  return (
+
+    <>
+    <div className="h-screen">
+
+    {isMobile ? <Warning /> : <Home />}
+    </div>
+    </>
+  );
 };
 
 export default App;
