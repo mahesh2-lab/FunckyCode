@@ -1,3 +1,3 @@
 # FunckyCode
 
-![image](https://github.com/user-attachments/assets/62568c8c-d224-40c1-aba6-470db53613bd)
+![image](https://github.com/user-attachments/assets/0165bc39-2ac0-4138-966a-091be9f99b19)
